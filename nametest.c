@@ -6,7 +6,8 @@ int main(){
     printf("Ryan Breitenfeldt\n");
     printf("Manny Bonilla\n");
     printf("Micheal Roper\n");
-    
+    printf("chris burry \n");
+
     // create a print statement with your name;
     // Use commit and create a comment
     // push to repo

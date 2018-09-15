@@ -4,6 +4,10 @@
 int main()
 {
     char userInput;
+    
+    printf("Do you want to see the list of names? Enter y for yes and n for no: ");
+    
+    scanf("%c", &userInput);
 
     switch (userInput)
     {

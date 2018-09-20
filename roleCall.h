@@ -9,4 +9,5 @@ void roleCall()
     printf("Manny Bonilla\n");
 	printf("Micheal Roper\n");
     printf("Ryan Breitenfeldt\n");
+    printf("Valentin Molina\n");
 }
